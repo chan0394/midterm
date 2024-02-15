@@ -1,0 +1,44 @@
+body {
+    font-family: "Vesper Libre", serif;
+    color: #1a1a1a;
+    line-height: 1.5;
+    margin: 0;
+}
+
+header, footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+.rock-hall-of-fame-2024 {
+    width: 100%;
+}
+
+#header-logo {
+    width: 100px;
+    padding-top: 8px;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2rem;
+    line-height: 1.3;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.news {
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: .85rem;
+    border-bottom: 2px solid #ff3530;
+}
+
+article + h2 {
+
+}
+
